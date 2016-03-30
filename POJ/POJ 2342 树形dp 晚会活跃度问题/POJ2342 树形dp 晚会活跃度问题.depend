@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458376880 source:i:\poj\poj2342 树形dp 晚会活跃度问题\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+	<vector>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+
